@@ -7,5 +7,7 @@ public class Input {
 		System.err.println("yellow");
 		
 
+		System.out.println("pink");
+
 	}
 }
