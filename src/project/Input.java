@@ -5,5 +5,7 @@ public class Input {
 		System.out.println("color");
 		System.out.println("black");
 
+		System.out.println("pink");
+
 	}
 }
